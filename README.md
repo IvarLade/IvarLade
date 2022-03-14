@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IvarLade 2 year developer experience 20 years Sysadm/Project/Consultant-experiance.
+- 👋 Hi, I’m @IvarLade 2 year developer experience 20 years Sysadm/Project/Consultant-experience.
 - 👀 I’m interested in customizing my Sysadmin world and exploring Cloud environment. 
 - 🌱 I’m currently learning microservices, fullstack, api, Elastic Stack, SQL.
 - 💞️ I’m looking to collaborate on commercial projects
